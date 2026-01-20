@@ -31,7 +31,7 @@ The project leverages data from various sources including sales records and cust
 ## Report
 
 1. **Topline Performance**:  
-   ![Topline Performance](https://github.com/SuhasPatil1718/Maven-Market-Analysis/blob/main/Toplineperformance.png.png)
+   ![Topline Performance](https://github.com/sushantpathade623-ux/maven-market-analysis/blob/main/toplineperformance.png)
 
    - Provides a comprehensive overview of Maven Market's performance metrics for the current month.
    - Displays key indicators such as profit, transactions, and returns, alongside customer demographics and order distribution.
